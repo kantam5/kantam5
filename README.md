@@ -9,6 +9,7 @@
 
 ***
 ### Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kantam5&layout=compact&theme=default&langs_count=3)](https://github.com/kantam5/github-readme-stats)
 <div>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=White"/>
 </div>
@@ -23,6 +24,9 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wlsry45963)](https://github.com/kantam5/velog-readme-stats)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kantam)](https://velog.io/@wlsry45963) 
+
+
+
 
 <!--
 **kantam5/kantam5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
