@@ -20,13 +20,8 @@
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=White&link=https://velog.io/@wlsry45963"/>
 </div>
 
-### Velog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wlsry45963)](https://github.com/kantam5/velog-readme-stats)
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kantam)](https://velog.io/@wlsry45963) 
-
-
-
+### Blog
+<a href="https://kantatatam.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://kantatatam.tistory.com/"/></a>
 
 <!--
 **kantam5/kantam5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
